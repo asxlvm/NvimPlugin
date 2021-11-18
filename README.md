@@ -1,0 +1,3 @@
+# NvimPlugin
+
+Just a small plugin I made for myself to learn how the stupid Pynvim module works like...
