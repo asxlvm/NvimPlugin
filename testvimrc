@@ -1,0 +1,2 @@
+let g:python3_host_prog = "/data/data/com.termux/files/usr/bin/python"
+let &runtimepath.=',~/.config/nvim/rplugin/python3'
